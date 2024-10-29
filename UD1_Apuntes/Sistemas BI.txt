@@ -1,4 +1,3 @@
 Sistemas BI
-Requisitos de finalización
 
 Un sistema BI (“Bussiness Inteligence”) es un sistema la llamada inteligencia de negocio. Estos sistemas proporcionan herramientas para facilitar el análisis y visualización de datos. Estos sistemas permiten analizar el pasado de la empresa (ver qué ocurrió), la situación presente y la situación futura, realizando predicciones y facilitando la toma de decisiones.

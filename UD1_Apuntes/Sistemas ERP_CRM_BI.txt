@@ -1,5 +1,6 @@
 Sistemas ERP-CRM-BI
-Requisitos de finalización
+
+
 Por sus características, los sistemas CRM y BI han sido complementos naturales de los sistemas ERP.
 Actualmente la mayoría de sistemas ERP integran los sistemas CRM y BI. Además, los sistemas ERP incorporan sistemas de plugins modulares que permiten ampliarlos de formas muy variadas.
 Por ello, la mayoría de sistemas de gestión integrados son comúnmente llamados simplemente “Sistemas ERP” e incluyen tanto las partes ERP, CRM como BI.
