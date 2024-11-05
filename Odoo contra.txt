@@ -1,0 +1,7 @@
+localhost:8069
+
+master =  abc123.
+database = odooDB
+email = a24aliciama@iessanclemente.net
+contra = mi contra simple
+español de españia 
