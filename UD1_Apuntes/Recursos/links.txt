@@ -1,0 +1,41 @@
+https://manuais.iessanclemente.net/index.php/Identificaci%C3%B3n_de_sistemas_ERP
+Identificación y Comparativa de ERP
+
+https://revistabyte.es/actualidad-it/tecnologias-erp/
+ERP 2021 - Tendencias y funcionalidades. La era digital Post-Covid
+
+https://www.odoo.com/documentation/16.0/es/
+docu oficial
+
+https://www.odoo.com/documentation/15.0/es/applications.html
+Odoo Apps
+
+https://www.cvosoft.com/sistemas_sap_abap/recursos_tecnicos_abap/que_es_sap_introduccion_sap.php#introduccion-a-sap
+SAP
+
+https://youtu.be/OJqf_X0Z1Wg
+Stallman video SoftwareLibre
+
+https://es.wikipedia.org/wiki/GNU_General_Public_License
+Licencia GNU
+
+https://www.gnu.org/philosophy/categories.html
+Categorías de software libre
+
+https://es.wikipedia.org/wiki/Microsoft_Dynamics_NAV
+Microsoft Dynamics
+
+https://www.youtube.com/watch?v=o610WsevJtE
+¿Cuál es la diferencia entre IaaS, PaaS y SaaS?
+
+https://retail-chains.orisha.com/es/
+Openbravo
+
+https://www.adempierebr.com/ADempiere_ERP
+Adempiere
+
+https://ofbiz.apache.org/
+OfBiz
+
+https://www.aptean.com/en-US/solutions/erp/products/aptean-compiere-erp
+Compiere
